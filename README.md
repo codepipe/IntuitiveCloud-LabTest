@@ -43,6 +43,9 @@ docker pull vishwaprince/intuitive-cloud-docker-image:inticloud-vishwa-2023-09-1
 docker pull vishwaprince/intuitive-cloud-docker-image:inticloud-vishwa-2023-09-1
 
 
+![image](https://github.com/codepipe/IntuitiveCloud-LabTest/assets/47555726/561bb4e9-fa2e-467d-a4ce-caa1aa524005)
+
+
 
 Thank you,
 vishwanath
